@@ -1,0 +1,1537 @@
+<!DOCTYPE HTML>
+<html lang="en-us" itemscope itemtype="http://schema.org/WebPage" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>USA - A Country Profile - Destination USA - Nations Online Project</title>
+<meta name="keywords" content="USA, U.S., United States, United State map, United States of America, United State Government, President of the United States, United States Capital City, Washington, New York, Los Angeles, United State News, United State map, United State Country Guides, United State History, United State Links">
+<meta name="description" content="United States facts and figures: Official web sites of US, links and information on American art, culture, geography, history, travel and tourism, cities, the capital of the United States, airlines, embassies, tourist boards and newspapers">
+<meta name="author" content="klaus k&auml;stle - nationsonline.org">
+<meta name="robots" content="index,follow">
+<meta property="og:title" content="USA - Country Profile - Nations Online Project">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.nationsonline.org/oneworld/united_states.htm">
+<meta property="og:image" content="https://www.nationsonline.org/gallery/USA/Mount-Rushmore.jpg">
+<meta property="og:description" content="US facts and figures: Official web sites of the United States, links and information on US art, culture, geography, history, travel and tourism, cities, the US capital, District of Columbia, airlines, embassies, tourist boards and newspapers.">
+<link rel="canonical" href="https://www.nationsonline.org/oneworld/united_states.htm">
+<meta property="fb:app_id" content="281471825201783">
+<link rel="preload" href="CSS/responsive.css" as="style">
+<link rel="preload" href="Script/topnav.js" as="script">
+<link rel="stylesheet" href="CSS/responsive.css">
+<style>
+
+</style>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J698YT6DWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J698YT6DWL');
+</script>
+<script async src="https://fundingchoicesmessages.google.com/i/pub-7193398479241689?ers=1" nonce="S9PXqcUFBV6lmnBro6ez1Q"></script><script nonce="S9PXqcUFBV6lmnBro6ez1Q">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+<script>(function(){'use strict';function aa(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}var ba="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};
+function ea(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var fa=ea(this);function ha(a,b){if(b)a:{var c=fa;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&ba(c,a,{configurable:!0,writable:!0,value:b})}}
+var ia="function"==typeof Object.create?Object.create:function(a){function b(){}b.prototype=a;return new b},l;if("function"==typeof Object.setPrototypeOf)l=Object.setPrototypeOf;else{var m;a:{var ja={a:!0},ka={};try{ka.__proto__=ja;m=ka.a;break a}catch(a){}m=!1}l=m?function(a,b){a.__proto__=b;if(a.__proto__!==b)throw new TypeError(a+" is not extensible");return a}:null}var la=l;
+function n(a,b){a.prototype=ia(b.prototype);a.prototype.constructor=a;if(la)la(a,b);else for(var c in b)if("prototype"!=c)if(Object.defineProperties){var d=Object.getOwnPropertyDescriptor(b,c);d&&Object.defineProperty(a,c,d)}else a[c]=b[c];a.A=b.prototype}function ma(){for(var a=Number(this),b=[],c=a;c<arguments.length;c++)b[c-a]=arguments[c];return b}
+var na="function"==typeof Object.assign?Object.assign:function(a,b){for(var c=1;c<arguments.length;c++){var d=arguments[c];if(d)for(var e in d)Object.prototype.hasOwnProperty.call(d,e)&&(a[e]=d[e])}return a};ha("Object.assign",function(a){return a||na});/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+var p=this||self;function q(a){return a};var t,u;a:{for(var oa=["CLOSURE_FLAGS"],v=p,x=0;x<oa.length;x++)if(v=v[oa[x]],null==v){u=null;break a}u=v}var pa=u&&u[610401301];t=null!=pa?pa:!1;var z,qa=p.navigator;z=qa?qa.userAgentData||null:null;function A(a){return t?z?z.brands.some(function(b){return(b=b.brand)&&-1!=b.indexOf(a)}):!1:!1}function B(a){var b;a:{if(b=p.navigator)if(b=b.userAgent)break a;b=""}return-1!=b.indexOf(a)};function C(){return t?!!z&&0<z.brands.length:!1}function D(){return C()?A("Chromium"):(B("Chrome")||B("CriOS"))&&!(C()?0:B("Edge"))||B("Silk")};var ra=C()?!1:B("Trident")||B("MSIE");!B("Android")||D();D();B("Safari")&&(D()||(C()?0:B("Coast"))||(C()?0:B("Opera"))||(C()?0:B("Edge"))||(C()?A("Microsoft Edge"):B("Edg/"))||C()&&A("Opera"));var sa={},E=null;var ta="undefined"!==typeof Uint8Array,ua=!ra&&"function"===typeof btoa;var F="function"===typeof Symbol&&"symbol"===typeof Symbol()?Symbol():void 0,G=F?function(a,b){a[F]|=b}:function(a,b){void 0!==a.g?a.g|=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})};function va(a){var b=H(a);1!==(b&1)&&(Object.isFrozen(a)&&(a=Array.prototype.slice.call(a)),I(a,b|1))}
+var H=F?function(a){return a[F]|0}:function(a){return a.g|0},J=F?function(a){return a[F]}:function(a){return a.g},I=F?function(a,b){a[F]=b}:function(a,b){void 0!==a.g?a.g=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})};function wa(){var a=[];G(a,1);return a}function xa(a,b){I(b,(a|0)&-99)}function K(a,b){I(b,(a|34)&-73)}function L(a){a=a>>11&1023;return 0===a?536870912:a};var M={};function N(a){return null!==a&&"object"===typeof a&&!Array.isArray(a)&&a.constructor===Object}var O,ya=[];I(ya,39);O=Object.freeze(ya);var P;function Q(a,b){P=b;a=new a(b);P=void 0;return a}
+function R(a,b,c){null==a&&(a=P);P=void 0;if(null==a){var d=96;c?(a=[c],d|=512):a=[];b&&(d=d&-2095105|(b&1023)<<11)}else{if(!Array.isArray(a))throw Error();d=H(a);if(d&64)return a;d|=64;if(c&&(d|=512,c!==a[0]))throw Error();a:{c=a;var e=c.length;if(e){var f=e-1,g=c[f];if(N(g)){d|=256;b=(d>>9&1)-1;e=f-b;1024<=e&&(za(c,b,g),e=1023);d=d&-2095105|(e&1023)<<11;break a}}b&&(g=(d>>9&1)-1,b=Math.max(b,e-g),1024<b&&(za(c,g,{}),d|=256,b=1023),d=d&-2095105|(b&1023)<<11)}}I(a,d);return a}
+function za(a,b,c){for(var d=1023+b,e=a.length,f=d;f<e;f++){var g=a[f];null!=g&&g!==c&&(c[f-b]=g)}a.length=d+1;a[d]=c};function Aa(a){switch(typeof a){case "number":return isFinite(a)?a:String(a);case "boolean":return a?1:0;case "object":if(a&&!Array.isArray(a)&&ta&&null!=a&&a instanceof Uint8Array){if(ua){for(var b="",c=0,d=a.length-10240;c<d;)b+=String.fromCharCode.apply(null,a.subarray(c,c+=10240));b+=String.fromCharCode.apply(null,c?a.subarray(c):a);a=btoa(b)}else{void 0===b&&(b=0);if(!E){E={};c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split("");d=["+/=","+/","-_=","-_.","-_"];for(var e=
+0;5>e;e++){var f=c.concat(d[e].split(""));sa[e]=f;for(var g=0;g<f.length;g++){var h=f[g];void 0===E[h]&&(E[h]=g)}}}b=sa[b];c=Array(Math.floor(a.length/3));d=b[64]||"";for(e=f=0;f<a.length-2;f+=3){var k=a[f],w=a[f+1];h=a[f+2];g=b[k>>2];k=b[(k&3)<<4|w>>4];w=b[(w&15)<<2|h>>6];h=b[h&63];c[e++]=g+k+w+h}g=0;h=d;switch(a.length-f){case 2:g=a[f+1],h=b[(g&15)<<2]||d;case 1:a=a[f],c[e]=b[a>>2]+b[(a&3)<<4|g>>4]+h+d}a=c.join("")}return a}}return a};function Ba(a,b,c){a=Array.prototype.slice.call(a);var d=a.length,e=b&256?a[d-1]:void 0;d+=e?-1:0;for(b=b&512?1:0;b<d;b++)a[b]=c(a[b]);if(e){b=a[b]={};for(var f in e)Object.prototype.hasOwnProperty.call(e,f)&&(b[f]=c(e[f]))}return a}function Da(a,b,c,d,e,f){if(null!=a){if(Array.isArray(a))a=e&&0==a.length&&H(a)&1?void 0:f&&H(a)&2?a:Ea(a,b,c,void 0!==d,e,f);else if(N(a)){var g={},h;for(h in a)Object.prototype.hasOwnProperty.call(a,h)&&(g[h]=Da(a[h],b,c,d,e,f));a=g}else a=b(a,d);return a}}
+function Ea(a,b,c,d,e,f){var g=d||c?H(a):0;d=d?!!(g&32):void 0;a=Array.prototype.slice.call(a);for(var h=0;h<a.length;h++)a[h]=Da(a[h],b,c,d,e,f);c&&c(g,a);return a}function Fa(a){return a.s===M?a.toJSON():Aa(a)};function Ga(a,b,c){c=void 0===c?K:c;if(null!=a){if(ta&&a instanceof Uint8Array)return b?a:new Uint8Array(a);if(Array.isArray(a)){var d=H(a);if(d&2)return a;if(b&&!(d&64)&&(d&32||0===d))return I(a,d|34),a;a=Ea(a,Ga,d&4?K:c,!0,!1,!0);b=H(a);b&4&&b&2&&Object.freeze(a);return a}a.s===M&&(b=a.h,c=J(b),a=c&2?a:Q(a.constructor,Ha(b,c,!0)));return a}}function Ha(a,b,c){var d=c||b&2?K:xa,e=!!(b&32);a=Ba(a,b,function(f){return Ga(f,e,d)});G(a,32|(c?2:0));return a};function Ia(a,b){a=a.h;return Ja(a,J(a),b)}function Ja(a,b,c,d){if(-1===c)return null;if(c>=L(b)){if(b&256)return a[a.length-1][c]}else{var e=a.length;if(d&&b&256&&(d=a[e-1][c],null!=d))return d;b=c+((b>>9&1)-1);if(b<e)return a[b]}}function Ka(a,b,c,d,e){var f=L(b);if(c>=f||e){e=b;if(b&256)f=a[a.length-1];else{if(null==d)return;f=a[f+((b>>9&1)-1)]={};e|=256}f[c]=d;e&=-1025;e!==b&&I(a,e)}else a[c+((b>>9&1)-1)]=d,b&256&&(d=a[a.length-1],c in d&&delete d[c]),b&1024&&I(a,b&-1025)}
+function La(a,b){var c=Ma;var d=void 0===d?!1:d;var e=a.h;var f=J(e),g=Ja(e,f,b,d);var h=!1;if(null==g||"object"!==typeof g||(h=Array.isArray(g))||g.s!==M)if(h){var k=h=H(g);0===k&&(k|=f&32);k|=f&2;k!==h&&I(g,k);c=new c(g)}else c=void 0;else c=g;c!==g&&null!=c&&Ka(e,f,b,c,d);e=c;if(null==e)return e;a=a.h;f=J(a);f&2||(g=e,c=g.h,h=J(c),g=h&2?Q(g.constructor,Ha(c,h,!1)):g,g!==e&&(e=g,Ka(a,f,b,e,d)));return e}function Na(a,b){a=Ia(a,b);return null==a||"string"===typeof a?a:void 0}
+function Oa(a,b){a=Ia(a,b);return null!=a?a:0}function S(a,b){a=Na(a,b);return null!=a?a:""};function T(a,b,c){this.h=R(a,b,c)}T.prototype.toJSON=function(){var a=Ea(this.h,Fa,void 0,void 0,!1,!1);return Pa(this,a,!0)};T.prototype.s=M;T.prototype.toString=function(){return Pa(this,this.h,!1).toString()};
+function Pa(a,b,c){var d=a.constructor.v,e=L(J(c?a.h:b)),f=!1;if(d){if(!c){b=Array.prototype.slice.call(b);var g;if(b.length&&N(g=b[b.length-1]))for(f=0;f<d.length;f++)if(d[f]>=e){Object.assign(b[b.length-1]={},g);break}f=!0}e=b;c=!c;g=J(a.h);a=L(g);g=(g>>9&1)-1;for(var h,k,w=0;w<d.length;w++)if(k=d[w],k<a){k+=g;var r=e[k];null==r?e[k]=c?O:wa():c&&r!==O&&va(r)}else h||(r=void 0,e.length&&N(r=e[e.length-1])?h=r:e.push(h={})),r=h[k],null==h[k]?h[k]=c?O:wa():c&&r!==O&&va(r)}d=b.length;if(!d)return b;
+var Ca;if(N(h=b[d-1])){a:{var y=h;e={};c=!1;for(var ca in y)Object.prototype.hasOwnProperty.call(y,ca)&&(a=y[ca],Array.isArray(a)&&a!=a&&(c=!0),null!=a?e[ca]=a:c=!0);if(c){for(var rb in e){y=e;break a}y=null}}y!=h&&(Ca=!0);d--}for(;0<d;d--){h=b[d-1];if(null!=h)break;var cb=!0}if(!Ca&&!cb)return b;var da;f?da=b:da=Array.prototype.slice.call(b,0,d);b=da;f&&(b.length=d);y&&b.push(y);return b};function Qa(a){return function(b){if(null==b||""==b)b=new a;else{b=JSON.parse(b);if(!Array.isArray(b))throw Error(void 0);G(b,32);b=Q(a,b)}return b}};function Ra(a){this.h=R(a)}n(Ra,T);var Sa=Qa(Ra);var U;function V(a){this.g=a}V.prototype.toString=function(){return this.g+""};var Ta={};function Ua(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^Date.now()).toString(36)};function Va(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)}function Wa(a){this.g=a||p.document||document}Wa.prototype.appendChild=function(a,b){a.appendChild(b)};/*
+
+ SPDX-License-Identifier: Apache-2.0
+*/
+function Xa(a,b){a.src=b instanceof V&&b.constructor===V?b.g:"type_error:TrustedResourceUrl";var c,d;(c=(b=null==(d=(c=(a.ownerDocument&&a.ownerDocument.defaultView||window).document).querySelector)?void 0:d.call(c,"script[nonce]"))?b.nonce||b.getAttribute("nonce")||"":"")&&a.setAttribute("nonce",c)};function Ya(a){a=void 0===a?document:a;return a.createElement("script")};function Za(a,b,c,d,e,f){try{var g=a.g,h=Ya(g);h.async=!0;Xa(h,b);g.head.appendChild(h);h.addEventListener("load",function(){e();d&&g.head.removeChild(h)});h.addEventListener("error",function(){0<c?Za(a,b,c-1,d,e,f):(d&&g.head.removeChild(h),f())})}catch(k){f()}};var $a=p.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ab=p.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),bb=p.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu");function db(a,b,c){this.i=a;this.l=new Wa(this.i);this.g=null;this.j=[];this.m=!1;this.u=b;this.o=c}
+function eb(a){if(a.i.body&&!a.m){var b=function(){fb(a);p.setTimeout(function(){return gb(a,3)},50)};Za(a.l,a.u,2,!0,function(){p[a.o]||b()},b);a.m=!0}}
+function fb(a){for(var b=W(1,5),c=0;c<b;c++){var d=X(a);a.i.body.appendChild(d);a.j.push(d)}b=X(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=W(100,110).toString()+"%";b.style.zIndex=W(2147483544,2147483644).toString();b.style["background-color"]=hb(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=hb(0,10,0,10,0,10);b.style.display="flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=X(a);c.style.width=W(80,
+85).toString()+"%";c.style.maxWidth=W(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=Va(a.l.g,"IMG");d.className=Ua();d.src=$a;d.alt="Warning icon";d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=X(a),f=X(a);f.style["font-weight"]="bold";f.textContent=ab;var g=X(a);g.textContent=bb;Y(a,e,f);Y(a,e,g);Y(a,c,d);Y(a,c,e);Y(a,b,c);a.g=b;a.i.body.appendChild(a.g);b=W(1,5);for(c=
+0;c<b;c++)d=X(a),a.i.body.appendChild(d),a.j.push(d)}function Y(a,b,c){for(var d=W(1,5),e=0;e<d;e++){var f=X(a);b.appendChild(f)}b.appendChild(c);c=W(1,5);for(d=0;d<c;d++)e=X(a),b.appendChild(e)}function W(a,b){return Math.floor(a+Math.random()*(b-a))}function hb(a,b,c,d,e,f){return"rgb("+W(Math.max(a,0),Math.min(b,255)).toString()+","+W(Math.max(c,0),Math.min(d,255)).toString()+","+W(Math.max(e,0),Math.min(f,255)).toString()+")"}function X(a){a=Va(a.l.g,"DIV");a.className=Ua();return a}
+function gb(a,b){0>=b||null!=a.g&&0!=a.g.offsetHeight&&0!=a.g.offsetWidth||(ib(a),fb(a),p.setTimeout(function(){return gb(a,b-1)},50))}
+function ib(a){var b=a.j;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];if(c)b=c.call(b);else if("number"==typeof b.length)b={next:aa(b)};else throw Error(String(b)+" is not an iterable or ArrayLike");for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.j=[];(b=a.g)&&b.parentNode&&b.parentNode.removeChild(b);a.g=null};function jb(a,b,c,d,e){function f(k){document.body?g(document.body):0<k?p.setTimeout(function(){f(k-1)},e):b()}function g(k){k.appendChild(h);p.setTimeout(function(){h?(0!==h.offsetHeight&&0!==h.offsetWidth?b():a(),h.parentNode&&h.parentNode.removeChild(h)):a()},d)}var h=kb(c);f(3)}function kb(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};function Ma(a){this.h=R(a)}n(Ma,T);function lb(a){this.h=R(a)}n(lb,T);var mb=Qa(lb);function nb(a){a=Na(a,4)||"";if(void 0===U){var b=null;var c=p.trustedTypes;if(c&&c.createPolicy){try{b=c.createPolicy("goog#html",{createHTML:q,createScript:q,createScriptURL:q})}catch(d){p.console&&p.console.error(d.message)}U=b}else U=b}a=(b=U)?b.createScriptURL(a):a;return new V(a,Ta)};function ob(a,b){this.m=a;this.o=new Wa(a.document);this.g=b;this.j=S(this.g,1);this.u=nb(La(this.g,2));this.i=!1;b=nb(La(this.g,13));this.l=new db(a.document,b,S(this.g,12))}ob.prototype.start=function(){pb(this)};
+function pb(a){qb(a);Za(a.o,a.u,3,!1,function(){a:{var b=a.j;var c=p.btoa(b);if(c=p[c]){try{var d=Sa(p.atob(c))}catch(e){b=!1;break a}b=b===Na(d,1)}else b=!1}b?Z(a,S(a.g,14)):(Z(a,S(a.g,8)),eb(a.l))},function(){jb(function(){Z(a,S(a.g,7));eb(a.l)},function(){return Z(a,S(a.g,6))},S(a.g,9),Oa(a.g,10),Oa(a.g,11))})}function Z(a,b){a.i||(a.i=!0,a=new a.m.XMLHttpRequest,a.open("GET",b,!0),a.send())}function qb(a){var b=p.btoa(a.j);a.m[b]&&Z(a,S(a.g,5))};(function(a,b){p[a]=function(){var c=ma.apply(0,arguments);p[a]=function(){};b.apply(null,c)}})("__h82AlnkH6D91__",function(a){"function"===typeof window.atob&&(new ob(window,mb(window.atob(a)))).start()});}).call(this);
+
+window.__h82AlnkH6D91__("WyJwdWItNzE5MzM5ODQ3OTI0MTY4OSIsW251bGwsbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9iL3B1Yi03MTkzMzk4NDc5MjQxNjg5Il0sbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hWYUhPaTVCa2tpMkFVQUpFMW9HMmJ2Qlh0djd4OThfclY5X1ZvYUJBeFRIMHg5LVpfNUZab20xS3dCMUVfdDFocmdtUGVhTWZTZXFYeklkamVaeGw0VFlBXHUwMDNkXHUwMDNkP3RlXHUwMDNkVE9LRU5fRVhQT1NFRCIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFcwVXlrZ01Pb0ZZd3ppNjdaV3J6NVRPRVFzZE5ValFWOVNzVmQ5MGJxbEhYS3ZLcXNCMkVUYXByNktjaW82V0M2RGQyUTYtSk9fU3Ezc2dKa0JMQWhuZ3dcdTAwM2RcdTAwM2Q/YWJcdTAwM2QxXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFV5LWZES3FaQVBUTVdHWVcyMEcwOExKYnFBQmdDMU82RmRtLXA5dHl3ZWlrdHBRcHlGVXRadVhyVlBGZGpBTFdHMTF6UDl1TlQ5SGh4ZVBybENrdlM0Z1FcdTAwM2RcdTAwM2Q/YWJcdTAwM2QyXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFh0cjVRZnk5akpwSXloOThPZ3lpUFQ4U0VuSU16MTJUSm5tWGVfZVFIUDhvTnI4MWs1ejVMWlJnX0pveWdyQ21HU2I2VDhVbGh6bTJhMWpsd0NfdVl4WFFcdTAwM2RcdTAwM2Q/c2JmXHUwMDNkMiIsImRpdi1ncHQtYWQiLDIwLDEwMCwiY0hWaUxUY3hPVE16T1RnME56a3lOREUyT0RrXHUwMDNkIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tLzBlbW4vZi9wL3B1Yi03MTkzMzk4NDc5MjQxNjg5LmpzP3VzcXBcdTAwM2RDQTAiXSwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vZWwvQUdTS1d4WEF4NWlSVEN4QW1HN1hoUEZJbnFkQmNuN3VBNHJ2cF84ZDJzSzVkNWhqSERCT2ZSUDU0TmtzaHE2Ym1qa3ItSWJ0ZUVfLXgtSm56V0c5WEFWWVl6UkdTd1x1MDAzZFx1MDAzZCJd");</script>
+</head>
+<body>
+<div class="adwrap shadow" style="height: 300px !important;"><span class="profil">Advertising</span><br>
+
+<ins class="adsbygoogle" style="display:block;height:280px;" data-ad-client="ca-pub-7193398479241689" data-ad-slot="9606769192" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div class="wrap">
+<div class="topnav" id="myTopnav">
+<div itemscope itemtype="https://schema.org/Organization" class="logo"><a itemprop="url" href="../index.html"><img itemprop="logo" src="images/OWNO-logo-withea.png" alt="Nations Online Logo" width="30" height="30" style="margin-top:3px" title="Nations Online Project Home"></a></div>
+
+<div class="dropdown">
+<button class="dropbtn">Continents</button>
+<div class="dropdown-content">
+<a href="continents.htm">About Continents</a>
+<a href="africa.htm">Africa</a>
+<a href="america.htm">The Americas</a>
+<a href="asia.htm">Asia</a>
+<a href="europe.htm">Europe</a>
+<a href="oceania.htm">Oceania/Australia</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">Countries</button>
+<div class="dropdown-content">
+<a href="countries.html">Countries Index</a>
+<a href="countries_of_the_world.htm">Countries A to Z</a>
+<a href="states.htm">Sovereign States</a>
+<a href="territories.htm">Dependent Areas</a>
+<a href="countries_by_area.htm">Countries by Area</a>
+<a href="population-by-country.htm">Country Population</a>
+<a href="island-countries.htm">Island Countries</a>
+<a href="muslim-countries.htm">Countries of the Islamic World</a>
+<a href="third_world.htm">Third World</a>
+<a href="third_world_countries.htm">First, Second, Third World Countries</a>
+<a href="human_development.htm">Human Development by Country</a>
+<a href="corruption.htm">Countries by Corruption</a>
+<a href="press_freedom.htm">Countries and Press Freedom</a>
+<a href="flags.html">Country Flags</a>
+<a href="currencies.htm">Currencies</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">Cities</button>
+<div class="dropdown-content">
+<a href="cities.htm">Cities Index</a>
+<a href="bigcities.htm">Megacities</a>
+<a href="famous-cities.htm">Famous Cities</a>
+<a href="capitals_africa.htm">Capital Cities Africa</a>
+<a href="capitals_america.htm">Capital Cities Americas</a>
+<a href="capitals_asia.htm">Capital Cities Asia</a>
+<a href="capitals_australia.htm">Capital Cities Australia</a>
+<a href="capitals_europe.htm">Capital Cities Europe</a>
+<a href="capitals-usa.htm">US Capital Cities</a>
+<a href="most_pop_cities_usa.htm">Largest US cities</a>
+<a href="airlines.html">Airports and Airlines</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">Landmarks</button>
+<div class="dropdown-content">
+<a href="most_famous_landmarks.htm">Famous Landmarks</a>
+<a href="most_famous_landmarks2.htm">City Icons</a>
+<a href="most_famous_landmarks3.htm">Places of Power</a>
+<a href="most_famous_landmarks4.htm">Sacred Mountains</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">Languages</button>
+<div class="dropdown-content">
+<a href="languages.htm">Languages</a>
+<a href="countries_by_languages.htm">Languages by countries</a>
+<a href="language_code.htm">Language codes</a>
+<a href="most_spoken_languages.htm">Most spoken Languages</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">Maps</button>
+<div class="dropdown-content">
+<a href="maps.htm">Maps Index</a>
+<a href="map/index.htm">Maps by Country</a>
+<a href="us_states_maps.htm">Maps of US States</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">International</button>
+<div class="dropdown-content">
+<a href="codes.html">Codes Index</a>
+<a href="news.html">International News</a>
+<a href="countrycodes.htm">Country Codes</a>
+<a href="international-calling-codes.htm">Int. Calling Codes</a>
+<a href="currencies.htm">Currency Codes</a>
+<a href="airport_code.htm">Airport Codes</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">Culture</button>
+<div class="dropdown-content">
+<a href="BLM.htm">BLM .:. Black Music</a>
+</div>
+</div>
+<a href="javascript:void(0);" style="font-size:27px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+<br>
+</div>
+<button onclick="topFunction()" id="upBtn" title="Go to top">&#x25B2;</button>
+<div class="wrap">
+<div class="row" id="flag">
+<div><img src="../gallery/USA/US-flag-wave2.jpg" alt="US Flag wave, cut" width="1138" height="53" class="img100" title="Flag of the United States, detail" sizes="(min-width: 820px) 100vw, 50vw" srcset="../gallery/USA/US-flag-wave2-S.jpg 600w, 
+		../gallery/USA/US-flag-wave2-MS.jpg 800w,
+		../gallery/USA/US-flag-wave2-M.jpg 1200w,
+		../gallery/USA/US-flag-wave2-L.jpg 1800w" loading="lazy"></div>
+</div>
+</div>
+<div class="wrap">
+<div class="row">
+<div><span id="breadcrumbs" itemprop="breadcrumb"><a href="../index.html"><span>Home</span></a> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="earth.htm"><span>Earth</span></a> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="continents.htm"><span>Continents</span></a> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="america.htm"><span>The Americas</span></a> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="map/north_america_map2.htm"><span>North America</span></a> <img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <i><span>United States</span></i> <br>
+<br>
+Related Categories:<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="flags_of_us_states.htm">Flags
+of the U.S. States</a> <br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="capitals-usa.htm">Storybook of the U.S. state capitals</a></span>
+<div class="gsearchform">
+
+<form action="https://www.nationsonline.org/oneworld/searchresults.htm" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="partner-pub-7193398479241689:6876591797">
+<input type="hidden" name="cof" value="FORID:10">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="text" name="q" size="27">
+<input type="submit" name="sa" value="Search Nations Online">
+</div>
+</form>
+
+<br>
+</div>
+<br>
+<img src="../buttons/h_dark_blue.gif" alt style="margin-top:9px;margin-bottom:9px; width:99.9%; height:2px;"></div>
+</div>
+<div class="row">
+<div><br>
+<a href="#Countryprofile" class="link_button">Country Profile</a> <a href="#Government" class="link_button">Government</a> <a href="#Maps" class="link_button">Maps</a> <a href="#News" class="link_button">News</a> <a href="#Culture" class="link_button">Culture</a> <a href="#Business" class="link_button">Business</a> <a href="#Tourism" class="link_button">Tourism</a> <a href="#World-Heritage-Sites" class="link_button">World Heritage Sites</a> <a href="#Education" class="link_button">Education</a> <a href="#Environment" class="link_button">Environment</a> <a href="#History" class="link_button">History</a> <a href="#Aboriginal" class="link_button">Native</a> <a href="#Information" class="link_button">Info</a><br>
+<br>
+</div>
+</div>
+<div class="row">
+<div><br>
+<h1><span class="page-title">United States</span></h1><br>&nbsp;
+</div>
+</div>
+<div class="row">
+</div>
+<div><img src="../gallery/USA/Mount-Rushmore.jpg" alt="Heads of four former United States presidents, Mount Rushmore National Memorial, Black Hills, South Dakota" width="1710" height="676" class="img100" title="Faces Mount Rushmore National Memorial" sizes="(min-width: 820px) 100vw, 50vw" srcset="../gallery/USA/Faces-Mount-Rushmore-S.jpg 600w, 
+		../gallery/USA/Faces-Mount-Rushmore-MS.jpg 800w,
+		../gallery/USA/Faces-Mount-Rushmore-M.jpg 1200w,
+		../gallery/USA/Faces-Mount-Rushmore-L.jpg 1800w,
+		../gallery/USA/Faces-Mount-Rushmore-XL.jpg 2400w" loading="lazy"><br>
+<span class="caption2">Mount Rushmore Monument, a sculpture carved into the granite face of Mount Rushmore, a granite formation in the Black Hills in Keystone, South Dakota, showing the heads of four United States presidents (left to right): George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln.</span><br>
+<span class="profil">Image: <a href="https://www.flickr.com/people/82297923@N00" target="_blank">Dean Franklin</a></span><br>
+<br>
+&nbsp; <br>
+</div>
+</div>
+<div class="wrap">
+<div class="img-right2"><a href="map/usa_map.htm"><img src="../map_small/usa.jpg" alt="Location map of Continental USA and Alaska in North America" width="230" height="173" title="Location map of the USA"></a><br>
+<span class="profil">Location map of the USA</span><br>
+<br>
+&nbsp;<br>
+</div>
+<div class="seal"><a href="javascript:;" onClick="MM_openBrWindow('../flags_big/United_States_Flag.html','USA','width=650,height=520')"><img src="flags/usa_flag.gif" alt="Flag of the United States of America" width="103" height="54" title="United States Flag"></a><br>
+<span class="profil"><a href="flags.html">Flag</a> of the United States</span><br>
+&nbsp;
+</div>
+<h2 class="hbold">The United States in brief</h2>
+Destination USA, a Nations Online Project country profile of the United States of America, a nation of <a href="countries_usa.htm">50 states</a>, covering the central part of <a href="map/north_america_map.htm">North America.</a><br>
+The Continental United States is bordered by the Atlantic Ocean in the east and the Pacific Ocean in the west. <a href="map/USA/alaska_map.htm">Alaska</a>, the largest US state, occupies a huge peninsula in the extreme northwest of North America. The US state of <a href="map/USA/hawaii_map.htm">Hawaii</a> is an island group located in the central Pacific Ocean, southwest of the continental United States.<br>
+<br>
+<br>
+The USA borders <a href="canada.htm">Canada</a> in the north; its southern 3,155 km long border to <a href="mexico.htm">Mexico</a> is partly furnished with a great wall (or fence). The United States also shares maritime borders with the <a href="bahamas.htm">Bahamas</a>, <a href="cuba.htm">Cuba</a>, and <a href="russia.htm">Russia</a>.<br>
+<br>
+With an <a href="countries_by_area.htm">area</a> of 9,833,516 km², the USA is the third-largest country in the world. The country is more than twice the size of the <a href="europe_map.htm">European Union</a> or about slightly more than half the size of Russia.<br>
+<br>
+The United States has a <a href="population-by-country.htm">population</a> of 337 million people, (in 2024); it is the most populous country in all of the Americas. Its capital is <a href="/oneworld/map/google_map_Washington.htm">Washington D.C.</a>, formally the District of Columbia. The <a href="most_pop_cities_usa.htm">largest US city</a> is <a href="map/google_map_New_York_City.htm">New York</a>. Spoken <a href="languages.htm">languages</a> are English 80%, and Spanish 13%.<br>
+<br>
+<br>
+</div>
+<div class="mobilead">
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7193398479241689" data-ad-slot="9606769192" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="wrap">
+<div class="row">
+<div><br>
+<span class="hbold">What is the United States famous for? </span><br>
+<br>
+The United States is famous for many things but especially best known famous American icons are<br>
+<br>
+<br>
+<div class="simgL"><img src="../gallery/USA/Bald-eagle.jpg" alt="Head of the American Bald eagle (Haliaeetus leucocephalus), a symbol for the United States " width="684" height="455" class="img100" title="American Bald eagle (Haliaeetus leucocephalus)"><br>
+<span class="caption2">The American Bald eagle (Haliaeetus leucocephalus) is a bird of prey found in North America. It is The American symbol. </span><br>
+<span class="profil">Image: <a href="https://commons.wikimedia.org/wiki/User:Lewis_Hulbert" target="_blank">Lewis Hulbert</a></span><br>
+<br>
+</div>
+jeans, hamburger, Bourbon whiskey, Ford, Tesla, Edison, Harley-Davidson, the dollar ($)<br>
+cowboys and indians, mustangs, country music, Johnny Cash, Elvis and rock and roll, Blues, Jazz, <br>
+New Orleans, the Statue of Liberty, New York City, the Empire State Building, Broadway theatre, Hollywood, <br>
+Niagara Falls, Monument Valley, the Grand Canyon, Napa Valley, Aspen, Lake Tahoe, Las Vegas, Florida, California, the Golden Gate Bridge, Marilyn Monroe, Walt Disney, Andy Warhol, Timothy Leary, Batman, Microsoft, Apple, IBM, Google, hot dogs and donuts, diners, Television, soap operas, baseball, football and other college sports, yellow school buses, Star Trek, NASA and the Moon landing, John F. Kennedy, Martin Luther King, Jr., <a href="BLM.htm" title="Famous Black Musicians">BLM</a>, the FBI and CIA, <br>
+John Wayne, rednecks, orthodox evangelicals, everybody has a gun, freemason symbols, creationism, <br>
+the American president, the Peanuts, barbie dolls, Kodak film, Miami and San Francisco, Indian Summer, bald eagles, the Hard Rock Cafe, The Blues Brothers, cornflakes and popcorn, Campbell soups, Heinz Tomato Ketchup, Pepsi and Coca Cola.<br>
+<br>
+<br>
+<br>
+&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="caption" style="background-color:#F0F8FF;height:36px;vertical-align: middle;padding-left: 18px">United States | United States of America</div>
+<div style="background-color:#F9F9F9"><br>
+<div class="bgtxt dix"><br>
+<br>
+Background:<br>
+Britain's American colonies broke with the mother country (<a href="united_kingdom.htm">UK)</a> in 1776 and were recognized as the new nation of the United States of America
+following the Treaty of Paris in 1783. <br>
+<br>
+During the 19th and 20th centuries, 37 new states were added to the original 13
+as the nation expanded across the North American continent and acquired a number
+of overseas possessions. <br>
+<br>
+The two most traumatic experiences in the nation's history were the Civil War
+(1861-65) and the Great Depression of the 1930s. <br>
+<br>
+Buoyed by victories in World Wars I and II and the end of the Cold War in 1991,
+the US remains the world's most powerful nation-state. <br>
+The economy is marked by steady growth, low unemployment and inflation, and rapid
+advances in technology. <br>
+<small class="profil">(Source: CIA - The World Factbook)<br>
+</small><br>
+&nbsp;</div><br>&nbsp;
+</div>
+</div>
+<div class="wrap" id="Countryprofile">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix2"><br>
+<br>
+<span class="caption">Country Profile</span><br>
+<br>
+<br>
+Official Name: <br>
+<b>United States of America</b><br>
+short form: America or United States<br>
+abbreviation: US or U.S. or USA <br>
+<br>
+<a href="countrycodes.htm">ISO Country Code</a>: <b>US, USA</b> <br>
+<br>
+<a href="international-calling-codes.htm">Country Calling Code</a>: +1<br>
+<br>
+Capital City: <b><a href="/oneworld/map/google_map_Washington.htm">Washington D.C.</a></b><br>
+<br>
+<b>Major US Cities: </b><br>
+<a href="map/google_map_Chicago.htm">Chicago</a> (pop. 2 896 016), <a href="map/google_map_Denver.htm">Denver</a> (pop. 554 636), <a href="/oneworld/map/google_map_Detroit.htm">Detroit</a> (pop. 951 270), <a href="map/google_map_New_York_City.htm">New York City</a> (pop. 8 008 278), <a href="map/google_map_Los_Angeles.htm">Los Angeles</a> (pop. 3 694 820),
+<a href="map/google_map_Phoenix.htm">Phoenix</a> (pop. 1 321 045),
+<a href="map/google_map_Philadelphia.htm">Philadlephia</a> (pop. 1 517 550),
+<a href="map/google_map_San_Diego.htm">San Diego</a> (pop. 1 223 400),
+<a href="map/google_map_San_Francisco.htm">San Francisco</a> (pop. 776 733)<br>&nbsp;
+<p style="padding-left: 234px"><a class="show" style="cursor:pointer" id="oneworld" onClick="showme('intel');">...show more</a></p><br>
+<div id="intel" style="display:none;"><br>
+<b>Time:</b><br>
+Actual Time: <br>
+Eastern Time, EST (UTC -5h):<br>
+<b>
+<span STYLE=" font-family: helvetica,arial,sans-serif;color:#000063;font-size:10px">
+Fri-Sept-20 &nbsp;04:04
+</span>
+</b> <br>
+Central Time, CST (UTC -6h):<br>
+<b>
+<span STYLE=" font-family: helvetica,arial,sans-serif;color:#000063;font-size:10px">
+Fri-Sept-20 &nbsp;03:04
+</span>
+</b> <br>
+Mountain Time, MST (UTC -7h):<br>
+<b>
+<span STYLE=" font-family: helvetica,arial,sans-serif;color:#000063;font-size:10px">
+Fri-Sept-20 &nbsp;02:04
+</span>
+</b> <br>
+Pacific Time, PST (UTC -8h):<br>
+<b>
+<span STYLE=" font-family: helvetica,arial,sans-serif;color:#000063;font-size:10px">
+Fri-Sept-20 &nbsp;01:04
+</span>
+</b> <br>
+Alaska Time, AKST (UTC -9h):<br>
+<b>
+<span STYLE=" font-family: helvetica,arial,sans-serif;color:#000063;font-size:10px">
+Fri-Sept-20 &nbsp;00:04
+</span>
+</b> <br>
+Hawaii-Aleutian Time, HAST (UTC -10h):<br>
+<b>
+<span STYLE=" font-family: helvetica,arial,sans-serif;color:#000063;font-size:10px">
+Thu-Sept-19 &nbsp;23:04
+</span>
+</b> <br>
+<a href="map/US-timezone_map.htm">Map of U.S. Time Zones</a><br>
+<br>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="capitals-usa.htm"><b>U.S.
+Capital Cities</b></a><br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="most_pop_cities_usa.htm"><b>The
+most populated Cities in the U.S.</b></a> <br>
+<br>
+<b>Government:</b><br>
+Type: Constitution-based federal republic<br>
+Independence: 4 July 1776 (from Great Britain)<br>
+<img src="../buttons/p1_out.gif" width="8" height="8" alt> <a href="https://www.archives.gov/national_archives_experience/charters/declaration.html" target="_blank">Declaration
+of Independence</a><br>
+<img src="../buttons/p1_out.gif" width="8" height="8" alt> <a href="http://www.house.gov/Constitution/Constitution.html" target="_blank" title="The Constitution of the United States">Constitution</a>:
+17 September 1787, effective 4 March 1789. <br>
+<br>
+<b>Geography:</b><br>
+Location: North America, bordering the North Atlantic Ocean in the east and the
+North Pacific Ocean in the west, between Canada and Mexico.<br>
+<a href="countries_by_area.htm">Area</a>: 9,630 million km&sup2;<br>
+Terrain: Vast central plain, mountains in west, hills and low mountains in east;
+rugged mountains and broad river valleys in Alaska; rugged, volcanic topography
+in Hawaii. <br>
+<br>
+<b>Climate:</b> Mostly temperate, tropical in Hawaii and Florida, arctic in Alaska. <br>
+<br>
+<b>People:</b><br>
+Nationality: American(s)<br>
+<a href="population-by-country.htm">Population</a>: 337 million people (in 2024)<br>
+Ethnic groups: white 77.1%, black 13.3%, Asian 5.6%, Amerindian and Alaska native 1.2%, native Hawaiian and other Pacific islander 0.2%, two or more races 2.6%; Hispanic 17.6%, White alone, not Hispanic or Latino 61.6% (2015 est.)<br>
+Religions: Protestant 56%, Roman Catholic 28%, Jewish 2%, other 4%, none 10% (1989)<br>
+<a href="american_languages.htm" title="Languages of the Americas">Languages</a>:
+English 82.1%, Spanish 10.7%, other Indo-European 3.8%, Asian and Pacific island
+2.7%, other 0.7%.<br>
+Literacy: total population: 97% <br>
+<br>
+<strong>Real GDP per capita:</strong> $62,530 (2019 est.)<br>
+<br>
+<b>Natural resources:</b> Coal, copper, lead, molybdenum, phosphates, uranium,
+bauxite, gold, iron, mercury, nickel, potash, silver, tungsten, zinc, petroleum,
+natural gas, timber.<br>
+<br>
+<b>Agriculture products:</b> Wheat, corn, other grains, fruits, vegetables, cotton;
+beef, pork, poultry, dairy products; forest products; fish.<br>
+<br>
+<b>Industries:</b> Leading industrial power in the world, highly diversified and
+technologically advanced; petroleum, steel, motor vehicles, aerospace, telecommunications,
+chemicals, electronics, food processing, consumer goods, lumber, mining.<br>
+<br>
+<strong>Exports - commodities:</strong> agricultural products (soybeans, fruit, corn) 9.2%, industrial supplies (organic chemicals) 26.8%, capital goods (transistors, aircraft, motor vehicle parts, computers, telecommunications equipment) 49.0%, consumer goods (automobiles, medicines) 15.0%<br>
+<br>
+<strong>Exports - partners:</strong> <a href="canada.htm" title="Canada country profile"></a><a href="canada.htm" title="Canada country profile">Canada</a> 16%, <a href="mexico.htm" title="Mexico country profile">Mexico</a> 15%, <a href="china.htm" title="China country profile">China</a> 8%, <a href="japan.htm" title="Japan country profile">Japan</a> 4%, <a href="united_kingdom.htm">UK</a> 4% (2022)<br>
+<br>
+<strong>Imports - commodities:</strong> agricultural products 4.9%, industrial supplies 32.9% (crude oil 8.2%), capital goods 30.4% (computers, telecommunications equipment, motor vehicle parts, office machines, electric power machinery), consumer goods 31.8% (automobiles, clothing, medicines, furniture, toys) <br>
+<br>
+<strong>Imports - partners:</strong> China 18%, Canada 14%, Mexico 14%, <a href="germany.htm" title="Germany country profile">Germany</a> 5%, Japan 4% (2022)<br>
+<br>
+<a href="currencies.htm">Currency:</a> US Dollar (USD) <br>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="Country-Stats/USA-statistics.htm">United States in Numbers</a><br>
+US key statistical data.<br>
+&nbsp;
+</div>
+</div><br>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap" id="Government">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><br>
+<span class="caption">Official Sites of the US</span><br>
+<br>
+<br>
+<img src="../gallery/USA/Capitol-at-Dusk.jpg" alt="East facade of the United States Capitol" width="1188" height="596" class="img100" title="United States Capitol at dusk" loading="lazy"><br>
+<span class="caption2">East facade of the most famous capitol building in the world. The US Capitol was initially designed by amateur architect Dr. William Thornton, a British-American physician.</span><br>
+<span class="profil">Image: <a href="https://commons.wikimedia.org/wiki/User:Martin_Falbisoner" target="_blank">Martin Falbisoner</a></span><br>
+<br>
+<br>
+<span class="hbold">Political System of the United States</span><br>
+<br>
+The United States is a federal union of 50 states. Its political system is based on the Constitution of 1787. Ideas of the Enlightenment such as liberty, progress, toleration, fraternity, constitutional government, and separation of church and state were incorporated into the US constitution. <br>
+<br>
+The constitution guarantees political control of the government through the separation of powers between its three branches: legislative, executive, and judicial. The separation of powers is known as checks and balances and was introduced to ensure that no government branch has too much power. <br>
+<br>
+The president is considered the center of power in the political system; he is the head of state and the head of government. <br>
+The bicameral legislature of the United States is the US Congress; it consists of two chambers, the US Senate (the upper house) and the US House of Representatives (the lower house). Each state, regardless of its population, sends two senators to the Senate.<br>
+<br>
+Since the American Civil War, two political parties, the Democratic Party and the Republican Party, have been the most important actors in American politics.<br>
+<br>
+<br>
+<h3 class="hbold">Government<br>
+<br>
+</h3>
+<span class="profil"><strong>Note:</strong> External links will open in a new browser window. </span><br>
+<br>
+<br>
+<a href="https://www.whitehouse.gov/" target="_blank">The White House</a><br>
+Office of Joe Biden, President of the United States,<br>
+and Kamala Harris, Vice President.<br>
+<br>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="map/The_White_House.htm">Annotated map/satellite view of White House Complex.</a><br>
+<br>
+The legislative branch of the federal government of the United States consists
+of the Congress, which is divided into two chambers:<br>
+<br>
+<a href="https://www.house.gov/" target="_blank">U.S. House of Representatives </a> <br>
+and the<br>
+<a href="https://www.senate.gov/" target="_blank">U.S. Senate</a> <br>
+<br>
+<br>
+<a href="https://www.usa.gov/" target="_blank">usa.gov</a><br>
+Official website for searching the U.S. Government<br>
+<br>
+<br>
+<a href="http://www.state.gov/" target="_blank">U.S. State Department</a><br>
+The U.S. foreign affairs agency.<br>
+<br>
+<span class="hbold">Diplomatic Missions</span><br>
+<a href="http://www.un.int/usa/" target="_blank">United States Mission to the
+United Nations</a><br>
+U.S. Representative to the United Nations, the USA is one of the five permanent
+members of the UN Security Council.<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="us_embassies.htm" title="links to American Embassies worldwide">U.S.
+Embassies around the world</a><br>
+U.S. representations in foreign countries, links to the American embassies. <br>
+<a href="http://www.state.gov/s/cpr/rls/fco/springsummer/" target="_blank">Foreign Embassies
+in the U.S</a><br>
+List of Foreign Embassies in the U.S.<br>
+<br>
+<br>
+<a href="http://www.supremecourtus.gov/" target="_blank">The United States
+Supreme Court</a><br>
+The US Supreme Court is part of the Judicial Branch.<br>
+<br>
+<a href="https://www.fbi.gov/" target="_blank">Federal Bureau of Investigation
+- FBI</a><br>
+The principal investigative arm of the United States Department of Justice.<br>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="countries_usa.htm">U.S.
+States</a><br>
+Official websites of the 50 U.S. States and more.<br>
+<br>
+<span class="hbold">Statistics</span><br>
+<a href="http://www.census.gov/" target="_blank">U.S. Bureau of the Census</a><br>
+The United States in figures. <br>
+<br>
+&nbsp;</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap" id="Maps">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontentad dix2">
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7193398479241689" data-ad-slot="9606769192" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><span class="caption"><br>
+Maps of the USA</span><br>
+<br>
+<br>
+<a href="map/usa_map.htm"><img src="../gallery/USA/Map-of-the-United-States.jpg" alt="Map of the Contiguous United States" width="1188" height="716" class="img100" title="Political Map of the USA" loading="lazy"></a><br>
+<span class="caption2">Map of the Contiguous United States</span> <span class="profil">(click map to enlarge)</span><br>
+<span class="profil">Image: © nationsonline.org</span><br>
+<br>
+<br>
+<h3><a href="maps.htm">Maps</a></h3>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="usa_map_small.htm" title="OWNO's free Map of the United States">Map
+of the USA </a><br>
+OWNO's free Map of the United States.<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="map/usa_map.htm" title="OWNO's free Map of the United States">General Map
+of the USA </a><br>
+Reference
+map of the Contiguous United States.<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="usa__blank_map.htm" title="a blank map of the american states">Blank
+Map of the USA </a><br>
+Free map with national and states borders. <br>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="us_states_maps.htm">Maps of the US States</a><br>
+Maps of all 50 US States.<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="map/US-timezone_map.htm">Map of US Time Zones</a><br>
+Map showing
+the Time Zones of the United States and the actual time in the different time zones.<br>
+<br>
+<img src="/buttons/google_earth.gif" alt="Google Earth" width="12" height="12"> <a href="map/google_map_usa.htm">Google
+Earth Map of the United States</a><br>
+Searchable map and satellite view of the United States.<br>
+<img src="/buttons/google_earth.gif" alt="Google Earth" width="12" height="12"> <a href="map/google_map_Washington.htm">Google
+Earth Map of Washington D.C. </a><br>
+Searchable map and satellite view of the capital city of the United States.<br>
+<img src="/buttons/google_earth.gif" alt="Google Earth" width="12" height="12"> <a href="map/google_map_New_York_City.htm">Google
+Earth Map of New York City</a><br>
+Searchable map and satellite view of New York City.<br>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="most_pop_cities_usa.htm">More Google Earth U.S. City Maps</a><br>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="map/north_america_map.htm">Map of North America</a><br>
+Reference Map of North America.&nbsp; <br>
+<br>
+<a href="https://legacy.lib.utexas.edu/maps/united_states.html" target="_blank">United
+States Maps</a><br>
+The Perry-Casta&ntilde;eda Library Map Collection. <br>
+<br>
+&nbsp;</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap" id="News">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><span class="caption"><br>
+United States News</span><br>
+<br>
+<br>
+<img src="../gallery/USA/US-newspaper.jpg" alt="US Newspapers online" width="1188" height="537" class="img100" title="American newspapers online" loading="lazy"><br>
+<span class="caption2">US newspapers frontpages</span><br>
+<br>
+<br>
+<h3 class="hbold"><strong>List of online news from the US</strong></h3>
+<br>
+<a href="https://www.boston.com/" target="_blank">Boston Globe</a><br>
+American daily newspaper based in Boston, Massachusetts.<br>
+<a href="https://www.chicagotribune.com/" target="_blank">Chicago Tribune</a> <br>
+A daily newspaper based in Chicago, Illinois.<br>
+<a href="https://thehill.com/" target="_blank">The Hill</a><br>
+US website based in Washington, D.C., and a political journalism newspaper (only when congress is in session) covering congress, politics, political campaigns, and events on Capitol Hill.<br>
+<a href="https://www.houstonchronicle.com/" target="_blank">Houston Chronicle</a> <br>
+The largest daily newspaper in Houston, Texas. is owned by the Hearst Corporation<br>
+<a href="https://www.latimes.com/" target="_blank">Los Angeles Times</a><br>
+Daily newspaper published in Los Angeles, California, since 1881. <br>
+<a href="https://www.newsday.com/" target="_blank">Newsday</a><br>
+A center-left American daily newspaper sold on Long Island and throughout New York's metropolitan area.<br>
+<a href="https://www.nydailynews.com/" target="_blank">New York Daily News</a><br>
+Stylized "Daily News," a newspaper based in New York City.<br>
+<a href="https://nypost.com/" target="_blank">New York Post</a><br>
+Daily tabloid, primarily distributed in New York City.<br>
+<a href="https://www.nytimes.com/" target="_blank">New York Times</a><br>
+The New York Times online.<br>
+<a href="https://www.motherjones.com/" target="_blank">Mother Jones</a> <br>
+MoJo is an left-leaning American magazine that focuses on news, commentary, and investigative reporting<br>
+<a href="https://www.rollcall.com/" target="_blank">Roll Call</a><br>
+The newspaper of Capitol Hill, Washington D.C. reports news of legislative and political maneuverings on Capitol Hill.<br>
+<a href="https://www.mercurynews.com/mld/mercurynews/" target="_blank">San Jose
+Mercury News</a><br>
+The Merc is a daily newspaper published in San Jose, California.<br>
+<a href="https://www.startribune.com/" target="_blank">Star Tribune</a><br>
+The largest newspaper in Minnesota. <br>
+<a href="https://www.tampabay.com/" target="_blank">Tampa Bay Times </a><br>
+Pulitzer prized newspaper published in St. Petersburg, Florida.<br>
+<a href="https://www.usatoday.com/" target="_blank">USA Today</a><br>
+American daily newspaper.<br>
+<a href="https://www.usnews.com/" target="_blank">U.S.News</a><br>
+USN&amp;WR publishes web-based news, opinions, consumer advice, rankings, and analysis.<br>
+<a href="https://www.wsj.com/" target="_blank">The Wall Street Journal</a><br>
+Business-focused international daily newspaper. <br>
+<a href="http://www.washingtonpost.com/" target="_blank">Washington Post</a><br>
+The Washington Post is the most widely circulated newspaper published in Washington, D.C., founded in 1877.<br>
+<br>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <b><a href="countries_usa.htm">More
+American Newspapers</a></b> <br>
+<br>
+<br>
+<strong>News Magazines</strong> <br>
+<a href="http://newsweek.com/" target="_blank">Newsweek</a><br>
+American weekly news magazine published in New York City, founded in 1933. <br>
+<a href="http://www.time.com/" target="_blank">Time Magazine</a><br>
+TIME is a well-known weekly news magazine published in New York City.<br>
+<br>
+<br>
+<b>Business News</b><br>
+<a href="http://www.economist.com/index.html" target="_blank">The Economist</a><br>
+Business and finance. <br>
+<a href="https://www.ft.com/home/us" target="_blank">Financial Times US</a><br>
+World business, finance, and political news. <br>
+<a href="http://www.wsj.com/" target="_blank">The Wall Street Journal</a><br>
+All the news from Wall Street.<br>
+<br>
+<br>
+<a href="http://www.salon.com/" target="_blank">Salon Magazine</a><br>
+Original reporting and commentary on politics, news, culture, and more.<br>
+<br>
+<a href="http://www.truthdig.com/" target="_blank">Truthdig</a> <br>
+Drilling beneath the headlines. <br>
+<br>
+<img src="../buttons/pspot.gif" width="10" height="10" alt="great site">&nbsp;<a href="http://www.projectcensored.org/" target="_blank">Project
+Censored</a><br>
+Media democracy in action. The media research group out of Sonoma State University
+compiles an annual list of 25 news stories of social significance that have been
+overlooked, under-reported, or self-censored by the country's major national news
+media. <br>
+<br>
+<br>
+<strong>Science and Fiction</strong><br>
+<a href="http://www.discovery.com/" target="_blank">Discovery
+Online</a><br>
+Mind games, real-world tales, adventures and expeditions, science live! <br>
+<br>
+<a href="https://www.nationalgeographic.com/" target="_blank">National Geographic</a><br>
+The official magazine of the National Geographic Society.<br>
+<br>
+<a href="https://www.quantamagazine.org/" target="_blank">Quanta Magazine</a><br>
+Sheldon Cooper's favorite magazine covers mathematics, theoretical physics, theoretical computer science, and basic life sciences. <br>
+<br>
+<br>
+<b>TV News Stations online</b><br>
+<a href="http://www.abcnews.go.com/" target="_blank">ABCNews</a><br>
+ABC News online.<br>
+<a href="https://www.cbsnews.com/" target="_blank">CBS News</a><br>
+Website of CBS News.<br>
+<a href="http://www.cnn.com/" target="_blank">CNN</a><br>
+News and advertising! <br>
+<a href="https://www.foxnews.com/" target="_blank">Fox News</a><br>
+Fox News Channel is an ultra-conservative news and political commentary television channel based in New York City.<br>
+<a href="https://www.msnbc.com/" target="_blank">MSNBC</a><br>
+Breaking News, Top Stories, and Show Clips.<br>
+<br>
+&nbsp;</div>
+<br>&nbsp;
+</div>
+</div>
+<div class="wrap" id="Culture">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><span class="caption"><br>
+</span><span class="caption3">Arts &amp; Culture of the USA</span><br>
+<br>
+<br>
+<img src="../gallery/USA/Cloud-Gate-(The-Bean)-Chicago.jpg" alt="Cloud Gate, &quot;The Bean&quot;, sculpture in the Millennium Park of Chicago" width="1188" height="792" class="img100" title="Cloud Gate, Chicago, USA" loading="lazy"><br>
+<span class="caption2">The Cloud Gate, nicknamed &quot;The Bean,&quot; is an outdoor sculpture designed by Indian-born sculptor Anish Kapoor. Approximately three-quarters of the stainless steel sculpture's external surface reflects the sky. The artwork is located in the Millennium Park of Chicago.</span><br>
+<span class="profil">Image: <a href="https://www.flickr.com/photos/clairity/albums/72157625265981581" title="Chicago" target="_blank">Sharon Mollerus</a></span><br>
+<br>
+<br>
+<h3 class="caption">Arts &amp; Culture<br>
+<br>
+</h3>
+<a href="https://usdac.us/" target="_blank">U.S. Department of Arts and Culture</a><br>
+The department styles itself as &quot;a grassroots action network inciting creativity to shape a culture of empathy.&quot;<br>
+<br>
+<a href="https://www.villagevoice.com/" target="_blank">The Village Voice</a><br>
+News and Culture; the country's first alternative newsweekly.<br>
+<br>
+<br>
+<b>Art Museums</b><br>
+<div class="simgR54"><img src="../gallery/USA/Jackson-Pollock.jpg" alt="Jackson Pollock painting with his &quot;drip&quot; method" width="612" height="480" class="img100" title="Jackson Pollock at work" loading="lazy"><br>
+<span class="caption2">Jackson Pollock painting with his &quot;drip&quot; method.</span><br>
+<span class="profil">Image: <a href="https://en.wikipedia.org/wiki/Hans_Namuth" target="_blank">Hans Namuth</a></span><br>
+<br>
+</div>
+<a href="http://www.getty.edu/" target="_blank">J. Paul Getty Museum</a><br>
+The Getty Museum Collection.<br>
+<a href="https://www.guggenheim.org/" target="_blank">Guggenheim Museum</a><br>
+A &quot;temple of spirit&quot; with masterpieces of modern art.<br>
+<a href="http://nmaa-ryder.si.edu:80/" target="_blank">National Museum of American
+Art</a><br>
+Arts and artists of the United States from the earliest colonial times to the present
+day.<br>
+<a href="http://www.metmuseum.org/" target="_blank">The Metropolitan Museum of
+Art</a><br>
+A collection of more than 5,000 years of world culture, from prehistory to the present.<br>
+<a href="http://www.moma.org/" target="_blank">MoMa</a><br>
+The Museum of Modern Art, New York.<br>
+<a href="http://www.whitney.org/" target="_blank">Whitney Museum of American Art</a><br>
+American art from the twentieth and twenty-first centuries. <br>
+<br>
+<br>
+<b>Museum of Natural History</b><br>
+<a href="http://www.amnh.org/" target="_blank">American Museum of Natural History</a><br>
+One of the world's preeminent institutions for scientific research and education,
+with collections of more than 32 million specimens and artifacts.<br>
+<br>
+<br>
+<b>Library</b><br>
+<div class="simgR54"><img src="../gallery/USA/Mark-Twain-in-Tesla's-Laboratory.jpg" alt="Mark Twain in the laboratory of Nikola Tesla." width="727" height="487" class="img100" title="Mark Twain and Nikola Tesla." loading="lazy"><br>
+<span class="caption2">Mark Twain, author of <em>The Adventures of Tom Sawyer</em>, in the laboratory of Nikola Tesla.</span><br>
+<span class="profil">Image: <a href="https://www.flickr.com/photos/alanbritom/albums/72157643810766504" title="Isla de Pascua, Chile" target="_blank">Alanbritom</a></span><br>
+<br>
+</div>
+<img src="../buttons/spot.gif" width="15" height="15" alt="cultural reference">&nbsp; <a href="http://lcweb.loc.gov/" target="_blank">The Library of Congress</a><br>
+The nation's oldest federal cultural institution. <br>
+<br>
+<b>Language</b> <br>
+<a href="http://www.m-w.com">Merriam-Webster OnLine Dictionary and Thesaurus</a><br>
+America's foremost publisher of language-related reference works.<br>
+<br>
+<b>Opera</b> <br>
+<a href="http://www.metopera.org/" target="_blank">The Metropolitan Opera</a><br>
+New York's Opera House, opened 1883.<br>
+<br>
+<b>Sports</b><br>
+<a href="http://www.nba.com/" target="_blank">National Basketball Association,
+NBA</a><br>
+Basketball<br>
+<a href="http://www.nfl.com/" target="_blank">National Football League, NFL</a><br>
+Football<br>
+<a href="http://www.majorleaguebaseball.com/" target="_blank">Major League Baseball</a><br>
+Baseball <br>
+&nbsp;<br>
+&nbsp;</div>
+<br>&nbsp;
+</div>
+</div>
+<div class="wrap" id="Business">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontentad dix2">
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7193398479241689" data-ad-slot="9606769192" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><span class="caption"><br>
+Business &amp; Economy in the US</span><br>
+<br>
+<br>
+<a href="https://www.federalreserve.gov/" target="_blank">Board of Governors of
+the Federal Reserve System</a><br>
+The Central Bank of the United States, founded by Congress in 1913.<br>
+<br>
+<a href="http://www.uschamber.com/" target="_blank">United States Chamber of Commerce</a><br>
+The business-oriented American lobbying group plans to become less aligned with the Republican Party than it has been for decades. <sup>[<a href="https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2019/04/25/daily-202-the-u-s-chamber-wants-to-disentangle-its-brand-from-the-gop-and-hopes-to-rebuild-the-center/5cc08e551ad2e52459e24671/" target="_blank">1</a>]</sup><br>
+<br>
+<br>
+<a href="http://www.bankofamerica.com/" target="_blank">Bank of America</a><br>
+An American multinational investment bank and financial services company based in Charlotte, North Carolina.<br>
+<br>
+<a href="http://www.chase.com/" target="_blank">Chase</a><br>
+Chase Bank is a national bank headquartered in Manhattan, New York City.<br>
+<br>
+<br>
+<a href="http://www.nyse.com/" target="_blank">New York Stock Exchange</a><br>
+Number one among the American stock exchanges.<br>
+<br>
+<a href="http://www.nasdaq.com/" target="_blank">Nasdaq</a><br>
+The Nasdaq Stock Market is number two among the American stock exchanges.<br>
+<br>
+<br>
+<a href="http://www.opensecrets.org/" target="_blank">Opensecrets.org</a><br>
+Political money culture, Campaign finance: Who's Giving - Who's Getting. The Center for Responsive Politics is a non-profit, nonpartisan research group based in Washington, D.C. that tracks the effects of money and lobbying on elections and public policy.<br>
+<br>
+<br>
+<br>
+<span class="caption">Famous American Brands from A-Z</span><br>
+<br>
+<a href="https://www.americanexpress.com/" target="_blank">American Express</a><br>
+Financial services.<br>
+<a href="https://www.apple.com/" target="_blank">Apple</a><br>
+America's better computer.<br>
+<a href="https://www.att.com/" target="_blank">AT&amp;T</a><br>
+The world's largest telecommunications company.<br>
+<a href="https://www.boeing.com/" target="_blank">Boeing</a><br>
+American airplanes, rockets, and satellites. <br>
+<a href="https://www.brooksbrothers.com/" target="_blank">Brooks Brothers</a><br>
+Wrinkle-free dress shirts.<br>
+<a href="https://www.campbellsoup.com/" target="_blank">Campbell</a><br>
+Well known canned soup.<br>
+<a href="https://www.colgate.com/" target="_blank">Colgate</a><br>
+Protect against bad breath.<br>
+<a href="https://www.coca-cola.com/" target="_blank">Coca-Cola</a><br>
+American soft drink.<br>
+<a href="https://www.cfdrodeo.com/" target="_blank">Cowboys at Cheyenne Frontier Days</a><br>
+The world’s largest outdoor rodeo.<br>
+<a href="https://www.disney.com/" target="_blank">Disney</a><br>
+The Web Site for Families, with a tremendous amount of &quot;Terms and Conditions of Use.&quot;<br>
+<a href="https://www.dowjones.com/" target="_blank">Dow Jones</a><br>
+The American stock market index. Dow Jones launched its first stock indicator in 1884.<br>
+<a href="https://www.kodak.com/" target="_blank">Eastman Kodak</a><br>
+American Films.<br>
+<a href="https://corporate.exxonmobil.com/" target="_blank">Exxon Mobil </a><br>
+American oil and gas.<br>
+<a href="https://www.fender.com/" target="_blank">Fender</a><br>
+The sounds that create legends.<br>
+<a href="https://www.superbowl.com/" target="_blank">Football</a><br>
+American ball game.<br>
+<a href="https://www.ford.com/" target="_blank">Ford</a><br>
+The world's first assembly lined car.<br>
+<a href="https://www.gm.com/" target="_blank">General Motors</a><br>
+American vehicles and vehicle parts, its luxury vehicles are known as Cadillac.<br>
+<a href="https://www.gillette.com/" target="_blank">Gillette</a><br>
+American razor blades.<br>
+<a href="https://www.harleydavidson.com/" target="_blank">Harley-Davidson</a><br>
+American Motor Cycles.<br>
+<a href="https://www.hersheys.com/" target="_blank">HERSHEY'S</a><br>
+American Chocolate.<br>
+<a href="https://www.ibm.com/" target="_blank">IBM</a><br>
+International Business Machines.<br>
+<a href="https://www.intel.com/" target="_blank">Intel</a><br>
+Microprocessors<br>
+<a href="https://www.jimbeam.com/" target="_blank">Jim Beam</a><br>
+Kentucky Bourbon Whiskey.<br>
+<a href="https://www.kelloggs.com/" target="_blank">Kellogg's</a><br>
+American cereals.
+<br>
+<a href="https://www.kfc.com/" target="_blank">Kentucky Fried Chicken</a><br>
+Traditional American food since 1939.<br>
+<a href="https://www.levi.com/" target="_blank">Levi's</a><br>
+American trousers.<br>
+<a href="https://www.mcdonalds.com/" target="_blank">McDonald's</a><br>
+American Food.<br>
+<a href="https://www.microsoft.com/" target="_blank">Microsoft</a><br>
+The most hated computer system of all time.<br>
+<a href="https://www.nike.com/" target="_blank">Nike</a><br>
+American Sportswear.<br>
+<a href="https://www.pepsico.com/">Pepsi </a><br>
+American soft drink.<br>
+<a href="https://www.playboy.com/" target="_blank">Playboy</a><br>
+Home of the bunnies.<br>
+<a href="https://www.rayban.com/" target="_blank">Ray Ban</a><br>
+Sunglasses<br>
+<a href="https://www.readersdigest.com/" target="_blank">Reader's Digest</a><br>
+The inventor of lean reading.<br>
+<a href="https://www.startrek.com/" target="_blank">Star Trek</a><br>
+Paramount Pictures Star Trek Universe.<br>
+<a href="https://www.tiffany.com/" target="_blank">Tiffany</a><br>
+Jewelry retailer.<br>
+<a href="https://www.ups.com" target="_blank">UPS</a><br>
+United Parcel Service.<br>
+<a href="https://www.volkswagen.com" target="_blank">Volkswagen</a><br>
+Against all rumors, Volkswagen isn't an American car.<br>
+<a href="https://www.walmart.com/" target="_blank">Walmart</a><br>
+Largest American retailer.<br>
+<a href="https://www.warner.com/" target="_blank">Warner Bros.</a><br>
+Hollywood<br>
+<a href="https://www.wellsfargo.com/" target="_blank">Wells Fargo</a><br>
+The American dream, from Pony Express to a multinational financial services provider.<br>
+<a href="https://www.xerox.com/" target="_blank">Xerox</a><br>
+The Document Company. <br>
+<br>
+<a href="https://www.consumerreports.org/" target="_blank">Consumer Reports</a><br>
+Not-for-profit website for today's consumer.<br>
+<br>
+<br>
+<b class="caption">Transportation</b><br>
+<!-- google_ad_section_start -->
+<b><br>
+</b><span class="hbold">Airlines</span><br>
+<a href="https://www.americanair.com/" target="_blank">American Airlines</a><br>
+The world's largest airline.<br>
+<br>
+<a href="https://www.delta-air.com/" target="_blank">Delta Air Lines</a><br>
+Number two of the world's largest airlines, headquartered in Atlanta, Georgia. <br>
+<br>
+<a href="https://www.iflyswa.com/" target="_blank">Southwest Airlines</a><br>
+Large US American airline, headquartered in Dallas, Texas.
+<br>
+<br>
+<a href="https://www.united.com/ual/en/us/" target="_blank">United Airlines</a><br>
+Major American airline headquartered at Willis Tower in Chicago, Illinois.<br>
+<br>
+...more<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="airlines.htm">American
+Airlines</a> <br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="major_US_airports.htm">Major
+US Airports</a><br>
+<br>
+<span class="hbold">Bus</span><br>
+<a href="https://www.greyhound.com/" target="_blank">Greyhound</a><br>
+The intercity bus company serves over 3,800 destinations throughout North America.<br>
+<br>
+<span class="hbold">Railroad</span><br>
+<a href="https://www.amtrak.com/" target="_blank">Amtrak</a><br>
+The National Railroad Passenger Corporation.<br>
+<br>
+&nbsp;</div>
+<br>&nbsp;
+</div>
+</div>
+<div class="wrap" id="Tourism">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontentad dix2">
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7193398479241689" data-ad-slot="9606769192" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><span class="caption"><br>
+Tourism in the USA</span><br>
+<br>
+<br>
+<img src="../gallery/USA/US-Route-50-Eureka-County-Nevada.jpg" alt="View of U.S. Route 50, the &quot;Loneliest Road in America&quot;" width="1188" height="661" class="img100" title="Transcontinental Highway U.S. Route 50" loading="lazy"><br>
+<span class="caption2">The transcontinental highway U.S. Route 50 is known as the &quot;Loneliest Road in America&quot;. The image shows the Nevada route section in Eureka County.</span><br>
+<span class="profil">Image: <a href="https://commons.wikimedia.org/wiki/User:Famartin" target="_blank">Famartin</a></span><br>
+<br>
+<br>
+<h3 class="caption">Destination USA - Travel and Tour Guides</h3><br>
+<br>
+<div class="tttad"><span class="profil">Advertisement</span><br> 
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7193398479241689" data-ad-slot="9606769192" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><br>
+</div>
+Discover the United States of America: vacation, accommodation, hotels, attractions,
+festivals, events, tourist boards, state parks, nature, tours, and much more.<br>
+<br>
+<br>
+Learn more about the main US travel destinations and get information by official travel and tourism sites for your vacation in the USA:<br>
+<br>
+<br>
+<a href="https://www.visittheusa.com/" target="_blank">Visit USA</a><br>
+The official travel site of the USA.<br>
+<br>
+<a href="https://www.travelalaska.com/" target="_blank">Alaska</a><br>
+Alaska visitors Information by the Alaska Division of Tourism.<br>
+<br>
+<a href="https://www.visitarizona.com/" target="_blank">Arizona</a><br>
+The official website of the Arizona Office of Tourism.<br>
+<br>
+<a href="https://www.visitcalifornia.com/" target="_blank">California</a><br>
+California's official travel and tourism website with all the information for
+travelers. <br>
+<br>
+<a href="https://www.colorado.com/" target="_blank">Colorado</a><br>
+Dillon, Denver, Dolores, and Durango.<br>
+<br>
+<a href="https://www.visitflorida.com/" target="_blank">Florida</a><br>
+Visit Florida - Florida's Official Travel Planning Website.<br>
+<br>
+<a href="https://www.gohawaii.com/" target="_blank">Hawaii</a><br>
+The Official Tourism Website and Vacation Guide for Hawaii. <br>
+<br>
+<a href="https://www.michigan.org/" target="_blank">Michigan</a><br>
+There are Great Lakes.<br>
+<br>
+<a href="https://visitmississippi.org/" target="_blank">Mississippi</a><br>
+The Mississippi Travel and Tourism Home Page. <br>
+<br>
+<a href="https://travelnevada.com/" target="_blank">Nevada</a><br>
+Tourist information by the Nevada Commission on Tourism. <br>
+<br>
+<a href="https://www.iloveny.com/" target="_blank">New York</a><br>
+Visit the Empire State: Catskills, Finger Lakes, Long Island, and the Big Apple.<br>
+<br>
+<a href="https://www.newmexico.org/" target="_blank">New Mexico</a><br>
+Official Site for New Mexico Tourism, plan a trip, explore NM, with travel deals,
+maps, calendar. <br>
+<br>
+<a href="https://www.visitnc.com/" target="_blank">North Carolina</a><br>
+VisitNC.<br>
+<br>
+<a href="https://www.tnvacation.com/" target="_blank">Tennessee</a><br>
+Your guide to the Smoky Mountains, whiskey, and country music.<br>
+<br>
+<a href="https://discoversouthcarolina.com/" target="_blank">South Carolina</a><br>
+Discover SC.<br>
+<br>
+<a href="https://www.travelsouthdakota.com/" target="_blank">South Dakota Tourism</a><br>
+Travel Information for the Mount Rushmore State.<br>
+<br>
+<a href="https://www.visitutah.com/" target="_blank">Utah Office of Tourism</a><br>
+Visit Utah. <br>
+<br>
+<a href="https://www.experiencewa.com/" target="_blank">Washington</a><br>
+The official tourism site of the State of Washington.<br>
+<br>
+<br>
+More information on tourism and
+traveling in the USA you will find in<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="countries_usa.htm">U.S.
+States</a><br>
+Links and information to official sites of the US States and the State Capitals,
+listed are also official travel and tourist information of all 50 states.<br>
+<br>
+<br>
+<b>U.S. Cities - Official sites and city guides.</b><br>
+<br>
+<img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="most_pop_cities_usa.htm">United
+States' most populated cities</a><br>
+<br>
+&nbsp;</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap" id="World-Heritage-Sites">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontentad dix2">
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7193398479241689" data-ad-slot="9606769192" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><br>
+<span class="caption">UNESCO World Heritage Sites</span><br>
+<br>
+<br>
+<img src="../gallery/USA/Aerial-of-Grand-prismatic-spring-Yellowstone.jpg" alt="Grand Prismatic Spring in the Midway and Lower Geyser Basin, Yellowstone National Park, USA" width="1188" height="759" class="img100" title="Grand Prismatic Spring in the Yellowstone National Park" loading="lazy"><br>
+<span class="caption2">Aerial view of Grand Prismatic Spring in the Midway and Lower Geyser Basin, Yellowstone National Park.</span><br>
+<span class="profil">Image: Jim Peaco, National Park Service</span><br>
+&nbsp;<br>
+<br>
+<strong class="caption">UNESCO World Heritage Sites in the United States</strong><br>
+<br>
+There are 24 UNESCO World Heritage Sites in the United States, 11 cultural, 12 natural, and one mixed site. Additionally, there are 19 properties listed in UNESCO's Tentative List for the US (see the <a href="http://whc.unesco.org/en/statesparties/us" target="_blank">List of UNESCO World Heritage Sites in the United States</a>).<br>
+<br>
+<br>
+<br>
+<strong class="caption">Most famous UNESCO World Heritage Sites in the USA</strong><br>
+<br>
+<img style="width:14px; height: auto" src="../gallery/Flags/World-Heritage-Logo.jpg" width="8" height="10" alt="World Heritage Site"> <a href="https://whc.unesco.org/en/list/78" target="_blank">Independence Hall</a><br>
+The Independence Hall in Philadelphia is the former Pennsylvania State Parliament building where the Declaration of Independence was signed in 1776 and the Constitution of the United States in 1787.<br>
+<br>
+<br>
+<img style="width:14px; height: auto" src="../gallery/Flags/World-Heritage-Logo.jpg" width="8" height="10" alt="World Heritage Site"> <a href="http://whc.unesco.org/en/list/75" title="UNESCO: Grand Canyon National Park" target="_blank">Grand Canyon National Park</a><br>
+The Grand Canyon in Arizona is a 446 km (277 mi) long and up to 29 km (18 mi) wide gorge carved out by the Colorado River. The walls of the canyon show the geological history of the past 2 billion years.<br>
+<br>
+<br>
+<img style="width:14px; height: auto" src="../gallery/Flags/World-Heritage-Logo.jpg" width="8" height="10" alt="World Heritage Site"> <a href="http://whc.unesco.org/en/list/28" title="UNESCO: Yellowstone National Park" target="_blank">Yellowstone National Park</a><br>
+The Yellowstone National Park is a 9,000 km² large natural forest in Wyoming. Grizzly bears, wolves, bison, and wapitis share the park with more than 4 million visitors (in 2018). Apart from the animals, the park offers a number of attractions, more than 10,000 geothermal features like geysers, hot springs, mud pots, and fumaroles. The absolute highlight of Yellowstone is a supervolcano, the Yellowstone Caldera, with a massive plume of molten rock underneath.<br>
+<br>
+<br>
+<img style="width:14px; height: auto" src="../gallery/Flags/World-Heritage-Logo.jpg" width="8" height="10" alt="World Heritage Site"> <a href="http://whc.unesco.org/en/list/76" title="UNESCO: Everglades National Park" target="_blank">Everglades National Park</a><br>
+Everglades National Park is the largest subtropical wilderness in the United States. The biosphere reserve and wetland in southern Florida protects about twenty percent of the original Everglades. The park is a sanctuary for a large number of birds and reptiles. In 2010 Everglades National Park was again included on the <em>List of World Heritage in Danger</em> because of serious and continuing degradation of its aquatic ecosystem. <sup>[<a href="http://whc.unesco.org/en/news/638" title="World Heritage Committee inscribes Everglades National Park on List of World Heritage in Danger">2</a>]</sup><br>
+<br>
+<br>
+<img style="width:14px; height: auto" src="../gallery/Flags/World-Heritage-Logo.jpg" width="8" height="10" alt="World Heritage Site"> <a href="http://whc.unesco.org/en/list/409" title="UNESCO: Hawaiʻi Volcanoes National Park" target="_blank">Hawai'i Volcanoes National Park</a><br>
+The park contains the summits of two of the world's most active volcanoes - Kīlauea (1,250 m) and Mauna Loa (4,170 m). Volcanic eruptions create a constantly changing landscape, an example of island-building through volcanic processes.<br>
+<br>
+<br>
+<br>
+<img src="../gallery/USA/Lava-Hawaii-Volcanoes-National-Park.jpg" alt="Lava enters the sea around Hawai'i Volcanoes National Park. " width="1200" height="900" class="img100" title="Hawai'i Volcanoes National Park, Hawaii, United States" loading="lazy"><br>
+<span class="caption2">Lava, the semi-liquid rock that erupted from a volcano, has reached the waters off Hawaii Island. The Hawai'i Volcanoes National Park is a UNESCO World Heritage Site.</span><br>
+<span class="profil">Image: <a href="https://www.flickr.com/photos/nationalparkservice/albums/72157706967741601" title="Find Your Park" target="_blank">National Park Service</a></span> <br>
+&nbsp;</div>
+<br>
+&nbsp; </div>
+</div>
+<div class="wrap" id="Education">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><span class="caption"><br>
+Higher Education in the US</span><br>
+<br>
+<br>
+<img src="../gallery/USA/Cahill-Center-for-Astronomy-and-Astrophysics-(Caltech).jpg" alt="Cahill Center for Astronomy and Astrophysics in Pasadena" width="1188" height="564" class="img100" title="Cahill Center for Astronomy and Astrophysics building" loading="lazy"><br>
+<span class="caption2">The Cahill Center for Astronomy and Astrophysics in Pasadena is part of the California Institute of Technology (Caltech).</span><br>
+<span class="profil">Image: <a href="https://commons.wikimedia.org/wiki/User:Dhilung" target="_blank">Dhilung</a></span><br>
+<br>
+<br>
+<span class="hbold">Education &amp; Research</span><br>
+<br>
+<a href="http://www.ed.gov/" target="_blank"><b>U.S. Department of Education (ED)</b></a><br>
+Official website of the department.<br>
+<br>
+<a href="http://www.caltech.edu/" target="_blank">California Institute of Technology</a><br>
+California Institute of Technology, Pasadena, California.<br>
+<a href="http://www.mit.edu">Massachusetts Institute of Technology - MIT</a><br>
+Cambridge, Massachusetts <br>
+<br>
+<a href="http://www.parc.com/" target="_blank">Palo Alto Research Center (PARC)</a><br>
+Has proven itself to be one of the premier sources of vision and innovation for
+technology-driven industries.<br>
+<a href="http://www.nsf.gov/" target="_blank">The National Science Foundation
+- NSF</a><br>
+To promote the progress of science; to advance the national health, prosperity,
+and welfare; and to secure the national defense., established 1950.<br>
+<a href="https://www.si.edu/" target="_blank">Smithsonian Institution</a><br>
+The increase and diffusion of knowledge. Founded in 1846.<br>
+<a href="http://www.smithsonianmag.com/" target="_blank">Smithsonian Magazine</a><br>
+Explore Art, Science, and History. <br>
+<br>
+<span class="hbold">NASA</span><br>
+<a href="http://www.nasa.gov/" target="_blank">NASA</a><br>
+The Space Agency. <br>
+<a href="https://astrobiology.nasa.gov/" target="_blank">Astrobiology at NASA</a><br>
+Astrobiology at NASA research, e.g., the search for habitable planets, exploration
+missions to Mars, etc.<br>
+<br>
+<span class="hbold">Important Schools, Colleges and Universities </span><br>
+<a href="http://www.glenmillsschool.org/" target="_blank">Glen Mills Schools</a><br>
+Sam Ferrainola's obviously working concept of reintegration of court adjudicated
+youth.<br>
+<br>
+<a href="http://www.duke.edu/" target="_blank">Duke University</a><br>
+Duke University is a private research university in Durham, North Carolina.<br>
+<br>
+<a href="http://www.georgetown.edu/" target="_blank">Georgetown University</a><br>
+Founded in 1789. The nation's oldest Catholic and Jesuit university is located in the Georgetown neighborhood of Washington, D.C. Today, Georgetown is a major international research university.<br>
+<br>
+<a href="http://www.stanford.edu/" target="_blank">Stanford University</a><br>
+Stanford, CA<br>
+<br>
+<a href="http://www.berkeley.edu/" target="_blank">UC Berkeley</a><br>
+The University of California at Berkeley.<br>
+<br>
+<a href="http://www.ucla.edu/" target="_blank">UCLA</a><br>
+The University of California Los Angeles.<br>
+<br>
+<a href="http://www.ucsd.edu/" target="_blank">UCSD</a><br>
+The University of California San Diego.<br>
+<br>
+<a href="http://www.uchicago.edu/" target="_blank">University of Chicago</a><br>
+Official website of the university.<br>
+<br>
+<a href="http://www.usma.edu/" target="_blank">West Point</a><br>
+United States Military Academy - Duty, Honor, Country.<br>
+<br>
+<br>
+<br>
+<span class="hbold">Ivy League Elite Colleges</span><br>
+Ivy League are eight private universities in the Northeastern United States. <br>
+<br>
+<a href="https://www.brown.edu/" target="_blank">Brown University</a><br>
+A private research university in Providence, Rhode Island. Founded in 1764<br>
+<br>
+<a href="http://www.columbia.edu/" target="_blank">Columbia University</a><br>
+A private research university in the City of New York. Established in 1754.<br>
+<br>
+<a href="https://www.cornell.edu/" target="_blank">Cornell University</a><br>
+Cornell is a private research university in Ithaca, NY, founded in 1865.<br>
+<br>
+<a href="http://www.dartmouth.edu/" target="_blank">Dartmouth College</a><br>
+Dartmouth College was founded in 1754 as a school "for the education and instruction of Youth of the Indian Tribes in this Land."<br>
+<br>
+<a href="http://www.harvard.edu/" target="_blank">Harvard University</a><br>
+The private research university in Cambridge, Massachusetts, was founded in 1636.<br>
+<br>
+<a href="http://www.upenn.edu/" target="_blank">University of Pennsylvania</a><br>
+UPenn is a private research university in Philadelphia, Pennsylvania; the first classes were taught in 1751.<br>
+<br>
+<a href="http://www.princeton.edu/" target="_blank">Princeton University</a><br>
+Princeton University was founded in 1746 in Princeton, New Jersey.<br>
+<br>
+<a href="http://www.yale.edu/" target="_blank">Yale University</a><br>
+Lux et Veritas - Yale was founded in 1701. <br>
+<br>
+<br>
+More universities you will find under: <img src="../buttons/pfeil_r.gif" width="6" height="8" alt> <a href="countries_usa.htm">US States and Capitals</a> <br>
+&nbsp;<br>
+&nbsp;</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap" id="Environment">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><span class="caption"><br>
+Environment &amp; Nature</span><br>
+<br>
+<br>
+<img src="../gallery/USA/No-PlanET.jpg" alt="“No Plan, no Planet” by artist Dan Perjovschi" width="1188" height="911" class="img100" title="“No Plan, no Planet”" loading="lazy"><br>
+<span class="caption2"> “No Plan, no Planet” by artist Dan Perjovschi.</span><br>
+<span class="profil">Image: David C. Sampson, <a href="https://www.nrdc.org/onearth/faces-trump-and-putin-stenciled-smog" target="_blank">onEarth</a></span><br>
+<br>
+<br>
+<br>
+<a href="http://www.nps.gov/" target="_blank">National Park Service</a><br>
+Americas National Parks and Monuments. The agency of the United States federal government was formed in 1916. <br>
+<br>
+<a href="http://www.grist.org/" target="_blank">Grist Magazine</a><br>
+American non-profit online magazine that publishes environmental news and opinion articles. <br>
+<br>
+<a href="https://lnt.org/" target="_blank">Leave No Trace</a><br>
+Leave No Trace provides research, education, and initiatives for outdoor recreation decision making.<br>
+<br>
+<a href="https://www.nps.gov/yell/" target="_blank">Yellowstone
+National Park</a><br>
+America's first and foremost National Park, founded in 1872. <br>
+<br>
+<br>
+<span class="hbold">Major Environmental Organizations in the USA</span><br>
+<br>
+<a href="https://abcbirds.org/" target="_blank">American Bird Conservancy</a><br>
+Conserving native birds and their habitats throughout the Americas. <br>
+<br>
+<a href="http://califaep.org/" target="_blank">Association of Environmental Professionals</a><br>
+California-based association of public and private sector environmental professionals. <br>
+<br>
+<a href="https://www.audubon.org/" target="_blank">Audubon</a><br>
+The National Audubon Society is a non-profit environmental organization in the United States. Its purpose is the conservation of birds and other wildlife and healthy ecosystems.<br>
+<br>
+<a href="https://earthfirstjournal.org/" target="_blank">Earth First!</a><br>
+The action division of the American conservationists.<br>
+<br>
+<a href="https://www.foei.org/" target="_blank">Friends of the Earth</a><br>
+The environmental organization was founded in 1969 in San Francisco; it became an international network of environmental groups in 1971.<br>
+<br>
+<a href="https://www.greenamerica.org/" target="_blank">Green America</a><br>
+Green America promotes environmentally informed ethical consumerism. It publishes the <a href="https://www.greenamerica.org/green-business-index" target="_blank">National Green Pages</a>, a directory that helps consumers to find earth-friendly products and services.<br>
+<br>
+<a href="https://www.nationalgeographic.org/" target="_blank">National Geographic Society</a><br>
+The National Geographic Society is a global nonprofit organization committed to exploring and protecting the planet.<br>
+<br>
+<a href="https://www.nwf.org/" target="_blank">National Wildlife Federation</a><br>
+The National Wildlife Federation (NWF) is one of the most significant nonprofit conservation, education, and advocacy organizations in the US.<br>
+<br>
+<a href="https://www.nature.org/" target="_blank">The Nature Conservancy</a><br>
+The environmental organization, <em>The Nature Conservancy</em>, was founded in 1951; its headquarters is in Arlington, Virginia.<br>
+<br>
+<a href="https://www.nrdc.org/" target="_blank">Natural Resources Defense Council </a><br>
+The Natural Resources Defense Council (NRDC) is a United States-based non-profit international environmental advocacy group. <br>
+<br>
+<a href="https://www.onepercentfortheplanet.org/" target="_blank">1% for the Planet</a><br>
+An internationally active association of companies that have committed themselves to donate one percent of their turnover to environmental protection. <br>
+<br>
+<a href="https://www.ran.org/" target="_blank">Rainforest Action Network</a><br>
+The environmental organization Rainforest Action Network (RAN) is based in San Francisco, California. Its motto: Environmentalism with teeth.<br>
+<br>
+<a href="https://www.sierraclub.org/" target="_blank">Sierra Club</a><br>
+The Sierra Club is a US environmental organization founded in 1892 in San Francisco, California. Its motto is: "Explore, enjoy and protect the planet." <br>
+<br>
+<a href="https://www.wcs.org/" target="_blank">Wildlife Conservation Society</a><br>
+WCS is a New York City-based organization that saves wildlife and wild places worldwide through science, conservation action, and education.<br>
+<br>
+<a href="http://www.worldwatch.org/" target="_blank">Worldwatch Institute</a><br>
+WWI is a globally focused environmental research organization based in Washington, D.C.
+that works on energy, resource, and environmental issues.<br>
+<br>
+<br>
+<span class="hbold">Other Major Ecology Groups active in the US</span> <br>
+<a href="https://www.greenpeace.org/" target="_blank">Greenpeace</a><br>
+International environmental organization.<br>
+<br>
+<a href="https://www.ipcc.ch/" target="_blank">Intergovernmental Panel on Climate Change </a><br>
+IPCC is the United Nations body for assessing the science related to climate change.<br>
+<br>
+<a href="https://www.worldwildlife.org/" target="_blank">World Wildlife Fund </a><br>
+The World Wide Fund for Nature is the leading organization in wildlife conservation and endangered species. <br>
+<br>
+<br>
+<img src="../gallery/USA/Devil's-Bridge-Trail-Sedona-AZ-USA.jpg" alt="Devil's Bridge Trail, Sedona, Arizona, USA" width="1188" height="792" class="img100" title="Devil's Bridge, Sedona" loading="lazy"><br>
+<span class="caption2">Devil's Bridge Trail in the Coconino National Forest, Sedona, Arizona, USA.</span><br>
+<span class="profil">Image: @ <a href="https://unsplash.com/@claybanks" target="_blank">clay.banks</a></span> <br>
+&nbsp;</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap" id="History">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><span class="caption"><br>
+United States History</span><br>
+<br>
+<br>
+<img src="../gallery/USA/Mayflower-in-Plymouth-Harbor-by-William-Halsall.jpg" alt="Painting of the Mayflower in Plymouth Harbor by William Halsall" width="1188" height="609" class="img100" title="Painting of the Mayflower" loading="lazy"><br>
+<span class="caption2">Mayflower in Plymouth Harbor. The Mayflower was an English ship that transported the first English Puritans, known today as the Pilgrims, from Plymouth, England to the New World in 1620.</span><br>
+<span class="profil">Painting: William Halsall, 1882<br>
+</span><br>
+<br>
+<br>
+<h3 class="hbold">Online resources related to the history of the United States of America</h3><br>
+<br>
+<a href="https://avalon.law.yale.edu/" target="_blank">The Avalon
+Project at the Yale Law School</a><br>
+Digital documents relevant to the fields of Law, History, Economics, Politics,
+Diplomacy, and Government.<br>
+<br>
+<a href="http://memory.loc.gov/ammem/browse/updatedList.html" target="_blank">American Memory</a><br>
+Huge digitized collections of American History in Words, Sound, and Pictures.<br>
+<br>
+<a href="http://www.americaslibrary.gov/" target="_blank">America's Story</a><br>
+America's Story told from America's Library of Congress. Early internet edition.<br>
+<br>
+<a href="https://www.thewright.org/" target="_blank">The Charles H. Wright Museum of African American History</a><br>
+The museum in Detroit, Michigan, holds the world's largest permanent exhibit on African-American culture.<br>
+<br>
+<a href="http://www.nps.gov/history/nr/travel/civilrights/" target="_blank">Civil Rights</a><br>
+Historic Places of the Civil Rights Movement.<br>
+<br>
+<a href="https://www.archives.gov/" target="_blank">National Archives</a><br>
+The U.S. National Archives and Records Administration. See American Originals, e.g., the Declaration of Independence, or the Constitution of the United States of America.<br>
+<br>
+<a href="http://americanhistory.si.edu/" target="_blank">National Museum of American
+History</a><br>
+Collections of Americas past.<br>
+<br>
+<a href="https://www.loc.gov/collections/today-in-history/" target="_blank">Today in
+History</a><br>
+For each day, the Library of Congress American Memory illustrates an event from
+American history.<br>
+<br>
+<a href="https://nmaahc.si.edu/" target="_blank">National Museum of African American History and Culture - Smithsonian</a><br>
+The only national museum devoted exclusively to the documentation of African American life, history, and culture.<br>
+<br>
+<img style="width:auto; height: 12px" src="../gallery/Flags/Wikipedia-W-logo.jpg" width="95" height="60" alt="Wikipedia W"> <a href="https://en.wikipedia.org/wiki/History_of_the_United_States" target="_blank">History of the United States - Wikipedia </a><br>
+Wikipedia series on the History of the United States.<br>
+<br>
+&nbsp;</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap" id="Aboriginal">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><span class="caption"><br>
+Indigenous People of the USA</span><br>
+<br>
+<br>
+<img src="../gallery/USA/Buffalo-Jump-Teepee.jpg" alt="Plains Indian teepee" width="1188" height="542" class="img100" title="Teepee in prairie" loading="lazy"><br>
+<span class="caption2">Plains Indian teepee.</span><br>
+<span class="profil">Image: Ed Correa</span><br>
+<br>
+<br>
+<span class="hbold">Native American Nations</span><br>
+According to the 2010 Census, 5.2 million people in the United States identified as American Indian and Alaska Native, either alone or in combination with one or more other races. <sup>[<a href="https://www.census.gov/prod/cen2010/briefs/c2010br-10.pdf" title="U.S. Department of CommerceEconomics and Statistics AdministrationU.S. CENSUS BUREAUThe American Indian and Alaska Native Population: 2010" target="_blank">3</a>]</sup><br>
+<br>
+<a href="https://www.nativefederation.org/" target="_blank">Alaska Federation of Natives</a><br>
+A statewide Native organization in Alaska.<br>
+<br>
+<a href="http://www.aimovement.org/" target="_blank">American Indian Movement</a><br>
+Native American grassroots movement, founded in the United States in 1968 in Minneapolis, Minnesota.<br>
+<br>
+<a href="https://www.gatheringofnations.com/" target="_blank">Gathering of Nations</a><br>
+The largest pow-wow in North America.<br>
+<br>
+<a href="http://www.honorearth.org/" target="_blank">Honor the Earth</a><br>
+Honor the Earth's mission is to create awareness and support for Native environmental issues.<br>
+<br>
+<a href="https://www.ienearth.org/" target="_blank">Indigenous Environmental Network</a> <br>
+IEN is an alliance of Indigenous peoples whose mission it is to protect the sacredness of Earth Mother.<br>
+<br>
+<a href="https://americanindian.si.edu/" target="_blank">National Museum of the American Indian</a><br>
+Advancing knowledge and understanding of the Native cultures of the Western Hemisphere.<br>
+<br>
+<a href="https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States" target="_blank">Native Americans in the United States</a><br>
+Wikipedia entry about Native Americans.<br>
+<br>
+&nbsp;</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap" id="Information">
+<div class="rap">
+<div style="background-color:#F9F9F9"><br>
+<div class="lcontent dix"><span class="caption"><br>
+Additional Information</span><br>
+<br>
+Selected country profiles of United States published by international organizations.<br>
+<br>
+<br>
+<br>
+<div class="ttad"><span class="profil">Advertisement</span><br> 
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7193398479241689" data-ad-slot="9606769192" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><br>
+</div>
+<a href="https://www.amnestyusa.org/" target="_blank">Amnesty International: USA</a><br>
+Amnesty International is a non-governmental organization focused on human rights. <br>
+<br>
+<a href="https://www.bbc.com/news/world-us-canada-16761057" target="_blank">BBC
+profile: United States of America</a><br>
+Country profiles by the British public service broadcaster.<br>
+<br>
+<a href="http://www.fao.org/countryprofiles/index/en/?iso3=usa" target="_blank">FAO: USA</a><br>
+The Food and Agriculture Organization (FAO) is a UN agency that leads international efforts to defeat hunger. <br>
+<br>
+<a href="https://freedomhouse.org/country/united-states" title="Freedom House: United Kingdom" target="_blank">Freedom House: United States </a><br>
+The U.S. government-funded non-profit organization whose goal is to promote liberal democracies worldwide.<br>
+<br>
+<a href="https://globaledge.msu.edu/countries/united-states" target="_blank">GlobalEDGE: USA</a><br>
+The Global Business Knowledge Portal about United States.<br>
+<br>
+<a href="https://www.hrw.org/united-states" target="_blank">Human Rights Watch: USA </a><br>
+HRW conducts research and advocacy on human rights. <br>
+<br>
+<a href="https://oec.world/en/profile/country/usa/" target="_blank">OEC: USA</a><br>
+The Observatory of Economic Complexity provides the latest trade data. <br>
+<br>
+<a href="https://rsf.org/en/united-states" target="_blank">Reporters Without Borders: USA </a><br>
+RSF (Reporters sans frontières) is an international NGO that defends and promotes media freedom.<br>
+<br>
+<a href="https://en.wikipedia.org/wiki/United_States" target="_blank">Wikipedia: USA</a><br>
+Wikipedia's United States page in many languages. <br>
+<br>
+<a href="https://www.cia.gov/the-world-factbook/countries/united-states/" title="The CIA World Factbook -- US" target="_blank">The
+CIA World Factbook -- USA</a><br>
+The CIA World Factbook intelligence on the United States.<br>
+<br>
+&nbsp;</div>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="row">
+<div><br>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7193398479241689" data-ad-slot="8366988194" data-matched-content-rows-num="1" data-matched-content-columns-num="4" data-matched-content-ui-type="image_stacked" data-ad-format="autorelaxed"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><br><br>
+&nbsp; <br>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="footblu">Other Countries in the Americas:<br>
+<a href="argentina.htm">Argentina</a> | <a href="belize.htm">Belize</a> | <a href="bolivia.htm">Bolivia</a> | <a href="canada.htm">Canada</a> | <a href="colombia.htm">Colombia</a> | <a href="costa_rica.htm">Costa
+Rica</a> | <a href="ecuador.htm">Ecuador</a> | <a href="el_salvador.htm">El Salvador</a> | <a href="french_guiana.htm">French
+Guiana</a> | <a href="guatemala.htm">Guatemala</a> | <a href="guyana.htm">Guyana</a> | <a href="honduras.htm">Honduras</a> | <a href="mexico.htm">Mexico</a> | <a href="nicaragua.htm">Nicaragua</a> | <a href="panama.htm">Panama</a> | <a href="paraguay.htm">Paraguay</a> | <a href="peru.htm">Peru</a> | <a href="suriname.htm">Suriname</a> | <a href="uruguay.htm">Uruguay</a> | <a href="venezuela.htm">Venezuela</a> <br>
+</div>
+</div>
+
+<div class="wrap">
+<div class="row">
+<div class="footer">
+<strong>One World - Nations Online </strong><br>
+<br>
+More Signal - Less Noise<br>
+<br>&nbsp;
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="footer"><a href="/oneworld/sitemap.htm">Site Map</a>
+| <a href="/oneworld/information_sources.html">Information Sources</a> | <a href="/oneworld/disclaimer.htm">Disclaimer </a>| Copyright &copy; 1998-2024 <b>::</b> nationsonline.org
+</div>
+</div>
+
+<script src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script src="/oneworld/Script/topnav.js"></script>
+<script src="/oneworld/Script/showme.js"></script>
+<script src="/oneworld/Script/go-top-button.js"></script>
+</body>
+</html>
